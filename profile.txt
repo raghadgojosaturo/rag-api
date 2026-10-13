@@ -1,0 +1,11 @@
+Raghad Abbas - AI Engineer | LLM & RAG Systems | Automation Engineer based in Syria. Contact: raghadwahida@gmail.com, GitHub: github.com/raghadgojosaturo.
+
+PROFESSIONAL SUMMARY: Final year Software Engineering student and AI engineer with 3 years of freelance and project-based experience building LLM-powered systems, Retrieval-Augmented Generation (RAG) pipelines, and API-driven automation. Strong in Python and n8n, with applied cybersecurity and multi-agent orchestration projects.
+
+TECHNICAL SKILLS: AI & LLM API integration (DeepSeek, RAG pipelines, vector databases, prompt engineering, structured JSON, multi-agent orchestration). Programming in Python, JavaScript, and Embedded C. Backend tools include n8n, REST API design, webhooks, Supabase, and caching.
+
+PROJECTS - CyberScan: Built an AI-powered Threat Intelligence Platform in 2025 using n8n, DeepSeek LLM, Supabase, VirusTotal, URLScan.io, and Cloudflare DNS. Integrated DeepSeek to parse API outputs into structured JSON and designed a Supabase caching layer to optimize response times.
+
+PROJECTS - Deep Agent & Others: Building a multi-agent AI auditing system in 2026 to evaluate Syrian websites for security and scalability using a "judge" agent. Also developed a JavaScript Chrome Security Extension (Manifest V3) in 2024 and built hardware prototypes in Embedded C.
+
+EDUCATION & VOLUNTEERING: Pursuing a B.Sc. in Software Engineering at Al-Yarmouk Private University (Expected 2026) and a Cybersecurity Diploma. Organizes tech initiatives for Sharaf AI and coordinates logistics for the SYBU CPC Programming Competition.
